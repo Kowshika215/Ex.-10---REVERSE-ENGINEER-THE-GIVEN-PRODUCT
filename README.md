@@ -30,10 +30,12 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
+### Input:
+<img width="1052" height="581" alt="image" src="https://github.com/user-attachments/assets/f76a1ff7-6e8e-4ca9-a6e1-84f4725436a6" />
+
 ### Output:
 ### Name:Kowshika.R
 ### Register Number:212224220049
-<img width="1002" height="595" alt="image" src="https://github.com/user-attachments/assets/5401ec2f-8d88-4230-87b7-7e54bed44172" />
 <img width="1002" height="595" alt="image" src="https://github.com/user-attachments/assets/6b7485e7-db2f-4bd9-ac38-7de0d496b2bb" />
 
 ## RESULT:
